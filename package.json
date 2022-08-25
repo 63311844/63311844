@@ -1,0 +1,22 @@
+{
+  "name": "63311844",
+  "version": "1.0.0",
+  "description": "nodejs vuejs webblog server (back end)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/63311844/63311844.git"
+  },
+  "author": "tanatip",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/63311844/63311844/issues"
+  },
+  "homepage": "https://github.com/63311844/63311844#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
